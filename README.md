@@ -9,12 +9,11 @@ I am a student at the University of Queensland in my 2nd year of a Bachelor of C
 
 In my time off I enjoy travelling, skiing, reading, music and painting. 
 
-🔭 I’m currently working on developing my portfolio as a Student of Bachelor of Commerce at UQ. I am majoring in Business Analytics and Business Information Systems. 
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+🔭 I’m currently working on: Developing my portfolio as a Student of Bachelor of Commerce at UQ – majoring in Business Analytics and Business Information Systems.
+- 🌱 I’m currently learning: MySQL 
+- 🤔 I’m looking for help with: Developing my GitHub portfolio
+- 💬 Ask me about: What the most difficult part of a recent project
+- 📫 How to reach me: Connect - send a note so I accept - on LinkedIn
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Bees survived the asteroid impact that wiped out the dinosaurs 66 million years ago and generally are just certified legends.
+- ⚡ Fun fact: Bees survived the asteroid impact that wiped out the dinosaurs 66 million years ago and are certified legends
 
