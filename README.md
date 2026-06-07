@@ -1,6 +1,6 @@
 # Hi there 👋
 
-2nd year B.Commerce student at UQ (Business Analytics + Business Information Systems). I build things with R, SQL, and Python. Ask me what I've broken lately. 
+2nd year B.Commerce student at UQ (Business Analytics + Business Information Systems). 
 
 Outside of data, I've held two people-facing roles: as an HR intern I ran end-to-end recruitment pipelines for 5 roles (recruited 100+) in collaboration with the CEO of a rapidly growing 100+ person organisation; and as Director of People Operations at Newish Communications Inc – a student-run communications agency – where I built the intranet you'll see below.
 
