@@ -4,7 +4,7 @@
 
 Outside of data, I've held two people-facing roles: as an HR intern I ran end-to-end recruitment pipelines for 5 roles (recruited 100+) in collaboration with the CEO of a rapidly growing 100+ person organisation; and as Director of People Operations at Newish Communications Inc – a student-run communications agency – where I built the intranet you'll see below.
 
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com) — connect with a note and I'll accept
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/matteo-mezzetti) — connect with a note and I'll accept
 - ⚡ Fun fact: Bees survived the asteroid impact that wiped out the dinosaurs 66 million years ago and are certified legends
 
 ---
