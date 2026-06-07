@@ -21,7 +21,7 @@ Outside of data, I've held two people-facing roles: as an HR intern I ran end-to
 
 Currently building out my portfolio. See below for a recap. 
 
-### Unified Team Intranet — Google Workspace
+### Unified Team Intranet — Google Workspace 
 
 **The Problem**: 6 teams across the organisation were working in silos where information was scattered across Monday.com boards, individual Google Drives, Sheets, Docs, outdated folders, and email threads. As a student-run communications agency with cohort turnover every 1–2.5 years, passing on knowledge was difficult and creating negative experiences for new members. They didn't know where to find things, and duplicated effort was the norm.
 
@@ -32,6 +32,16 @@ Currently building out my portfolio. See below for a recap.
 **The Impact**: Qualitative: strong positive feedback from the team. A centralised, navigable resource replaced the previous patchwork of siloed drives, outdated archives, and scattered boards.
 
 > 📸 *Screenshots coming soon*
+
+### Million Song Dataset Report - R 
+
+> 🗒️ *More on this soon*
+
+### Human Resources Database — MySQL
+
+> 🗒️ *More on this soon*
+
+
 
 ---
 
